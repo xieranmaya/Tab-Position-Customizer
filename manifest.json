@@ -10,7 +10,6 @@
       "32": "icon32.png",
       "48": "icon48.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDyalM6fGXpRbGKkFh6/SM6ks1MciYBxj7ECsOzsrRV8g6ANUbB24333CWyhZ6IBlkRvDbVduJUOwLj84Pb3rQAdJYWJQCAE6B7CpJfUuCA4YOm4MsLhc/M06AI+DO8Kv5Tmumio6tOzRTxXPx/WX3YU/VAIlGNsnPNo5WLqAGpNQIDAQAB",
    "manifest_version": 2,
    "name": "Tab Position Customizer",
    "options_page": "options.html",
