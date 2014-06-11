@@ -8,4 +8,4 @@ Then I forked this extension and I'm gonner to upload it to Chrome Web Store, th
 
 The original extension URL should be
 https://chrome.google.com/webstore/detail/eeeapmhhmnofinfkieffibpodnfnmhge
-
+(but may can't be opened)
